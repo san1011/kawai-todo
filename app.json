@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "kawai-todo",
-    "slug": "kawai-todo",
+    "name": "Kawai To Do",
+    "slug": "kawai-todo made by react_native",
     "privacy": "public",
     "sdkVersion": "34.0.0",
     "platforms": [
